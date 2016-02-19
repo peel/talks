@@ -4,7 +4,6 @@
 
 * Level:  Daily User
 * Topics: new or emerging languages, new programming paradigms
-* Time: 60 min 
 * Abstract
 Polyglot, multiparadigm environments become the bread and butter of every developer's work. 
 With the drive towards microservices and reactive software developers start to look into Erlang/OTP platform more often. 

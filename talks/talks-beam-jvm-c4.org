@@ -4,7 +4,6 @@
 
 * Level: Daily User -> Expert
 * Topics: new or emerging languages, new programming paradigms
-* Time: 60 min 
 * Abstract
 The drive towards microservices and reactive software uncovers patterns that have been identified and implemented for years.
 Erlang is seen as a corner stone of distributed, actor-based concurrent programming. Much work has been done to implement Erlang's philosophy for the JVM.
