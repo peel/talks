@@ -1,4 +1,4 @@
-#+TITLE: Programming |> Multi |> Platfrom |> Paradigm
+#+TITLE: Multi{paradigm,platform} Programming
 #+AUTHOR: Piotr Limanowski
 #+KEYWORDS: jinterface, integration, jvm, beam, otp, elixir, lfe, clojure
 
