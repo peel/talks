@@ -1,6 +1,5 @@
 #+TITLE: BEAM-JVM C4
 #+AUTHOR: Piotr Limanowski
-#+EMAIL: plimanowski+conf@protonmail.com
 #+KEYWORDS: jvm, beam, erlang, elixir, otp
 
 * Level: Daily User -> Expert

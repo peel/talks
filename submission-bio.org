@@ -1,5 +1,5 @@
 #+TITLE: Piotr Limanowski
-#+EMAIL: plimanowski+conf@protonmail.com
+#+EMAIL: plimanowski+conf*at*protonmail.com
 
 * Tech Experience
 I have been working in a variety of technologies predominantly on the backend since early 2000s. 

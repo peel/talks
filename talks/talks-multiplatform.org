@@ -1,6 +1,5 @@
 #+TITLE: Programming |> Multi |> Platfrom |> Paradigm
 #+AUTHOR: Piotr Limanowski
-#+EMAIL: plimanowski+conf@protonmail.com
 #+KEYWORDS: jinterface, integration, jvm, beam, otp, elixir, lfe, clojure
 
 * Level:  Daily User
