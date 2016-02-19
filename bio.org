@@ -1,0 +1,7 @@
+#+TITLE: Piotr Limanowski
+#+EMAIL: plimanowski+conf@protonmail.com
+
+Piotr is a señor code arsonist based in Gdansk, PL. 
+He has been developing scalable web products since early 2000s with variety of languages (Java, Scala, Ruby, Javascript and Elixir).
+Focused on delivering value to products and constatly working on simplyfing things. 
+Aside from that he is el modo evil brujito and a future hoverboard owner.

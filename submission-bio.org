@@ -1,0 +1,17 @@
+#+TITLE: Piotr Limanowski
+#+EMAIL: plimanowski+conf@protonmail.com
+
+* Tech Experience
+I have been working in a variety of technologies predominantly on the backend since early 2000s. 
+I worked both in Poland and abroad. Over my career I have been working for startups and companies from banking, education and most recently media domains[fn:3].
+Over the last year I have been gruadually switching my toolchain into Erlang/OTP platform in Schibsted Tech Polska.
+Along with my team I have migrated legacy monolith to Docker/CoreOS backed services built with Scala, Clojure and Java with Elixir/OTP tooling. 
+* Speaking Experience
+I have been primarily speaking in user groups (primarily Java, Ruby) for groups of over 100 people.
+Last year I have stared speaking at conferences. My last JDD talk was granted 95.7% positive feedback and the room was packed.
+I feel comfortable giving a talks in English[fn:2].
+Some of my previous talks can be seen on my personal site[fn:1].
+* Footnotes
+[fn:3] https://www.linkedin.com/in/piotr-limanowski-492ba031?trk=hp-identity-name
+[fn:2] https://www.youtube.com/watch?v=LOcLwnV4Z2k
+[fn:1] https://peel.github.io/talks

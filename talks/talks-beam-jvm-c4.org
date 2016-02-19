@@ -1,0 +1,20 @@
+#+TITLE: BEAM-JVM C4
+#+AUTHOR: Piotr Limanowski
+#+EMAIL: plimanowski+conf@protonmail.com
+#+KEYWORDS: jvm, beam, erlang, elixir, otp
+
+* Level: Daily User -> Expert
+* Topics: new or emerging languages, new programming paradigms
+* Time: 60 min 
+* Abstract
+The drive towards microservices and reactive software uncovers patterns that have been identified and implemented for years.
+Erlang is seen as a corner stone of distributed, actor-based concurrent programming. Much work has been done to implement Erlang's philosophy for the JVM.
+Yet is it even remotely possible to have a full coverage of the battle-tested Erlang platform running on Java Virtual Machine?
+To have a general idea of how the platforms differ 4 Cs will be mentioned: (Basic) Comparison, Code, Concurrency, (Garbage) Collection
+
+The talk identifies the differences between both platforms. We will focus on topics such as programming model, bytecode, memory model, garbage collection. 
+We will also touch the topics of deployment and tooling.
+Starting off with the very basis of concurrency-free platform focused solely on distributed computing (processes  threads) we will move onto programming model. 
+The talk will compare JVM languages' object-oriented legacy with Elixir's purely functional approach.
+For memory model and garbage collection we will analyse differences between JVM's common heap and BEAM's per-proceess heap and GC.
+Hopefully it will give a basic understanding of Erlang programming platfrom and impact the way of thinking about it's fundamental 'let it crash' (therfore C4) principles.

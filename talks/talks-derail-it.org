@@ -1,0 +1,15 @@
+#+TITLE: De⎇ it! The Error Handling Approaches
+#+AUTHOR: Piotr Limanowski
+#+EMAIL: plimanowski+conf@protonmail.com
+#+KEYWORDS: error handling, let it crash
+
+* Level: Daily User 
+* Topics: software engineering, new programming paradigms
+* Abstract
+Usually errors in imperative languages are handled by try-catch block or checking that each operation (function) returned as expected.
+This causes a lot of defensive coding with if-wrapping of code blocks. With more functional approach it is way easier to do so...
+The talk introduces two models of error handling: Erlang-inspired let it crash and foldable, Either-type and Kleisli composition related approach.
+The approaches differ in terms of their usecases thus they will be presented in a frame of a typical web application stack. 
+The let it crash approach works very well on internal backend processing whereas the latter works great for exposing frontends to the client.
+The goal of the presentation is to expose the listener to less imperative error handling techniques.
+
