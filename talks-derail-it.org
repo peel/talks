@@ -13,3 +13,5 @@ The let it crash approach works very well on internal backend processing whereas
 The goal of the presentation is to expose listener to less imperative error handling techniques. 
 Hopefully after the presentation the listener will be able to identify the parts in his projects where the models are applicable and valueble.
 
+* Given at
+** 4Developers,  11/04/16,  Warsaw, PL
