@@ -17,6 +17,8 @@ In the end the talk compares the JInterface-based approach to HTTP REST-style co
 After the talk listeners should be able to understand the basics of JVM-BEAM integration strategies as well as benefits of such an architecture.
 * Repository
 [[http://github.com/peel/multi.git][peel/multi]]
+* Slides
+[[https://speakerdeck.com/peel/multi-platform-paradigm-programming][Main deck]]
 * Given at
 ** 4Developers,  11/04/16,  Warsaw, PL
 
