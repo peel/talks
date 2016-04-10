@@ -15,6 +15,8 @@ We will explore JInterface, a set of Java classes which are used to make communi
 In the end the talk compares the JInterface-based approach to HTTP REST-style communication.
 
 After the talk listeners should be able to understand the basics of JVM-BEAM integration strategies as well as benefits of such an architecture.
+* Repository
+** [[http://github.com/peel/multi.git][peel/multi]]
 * Given at
 ** 4Developers,  11/04/16,  Warsaw, PL
 
